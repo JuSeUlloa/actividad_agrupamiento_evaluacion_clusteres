@@ -32,9 +32,6 @@ dist/
 
 output/
 results/
-figures/*.png
-figures/*.jpg
-figures/*.jpeg
 
 data/raw/*.xlsx
 data/processed/*
